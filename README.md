@@ -1,0 +1,4 @@
+pptx file containing the presentation I gave in class [Survival-of-tardigrades-in-subzero-temperatures.pptx]
+PDF file containing the final project [final project - Anna Shilling Bakalinsky.pdf]
+Link to GitHub containing the code [https://colab.research.google.com/drive/1ihrHIK1BpCfGga9tUYxPt72K6E-eiW8l?authuser=1#scrollTo=UBatznqjuW2T]
+link to google drive containing the dataset (video named: tardigrades_1.mp4 ) [https://drive.google.com/drive/u/1/folders/1JjtpspW3XqEjdn6KRN3JmxATKFjnb_82]
