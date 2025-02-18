@@ -2,4 +2,5 @@ pptx file containing the presentation I gave in class [Survival-of-tardigrades-i
 PDF file containing the final project [final project - Anna Shilling Bakalinsky.pdf]
 ipynb file containing the code of the final project [final project anna shilling .ipynb]
 Link to GitHub containing the code [https://colab.research.google.com/drive/1ihrHIK1BpCfGga9tUYxPt72K6E-eiW8l?authuser=1#scrollTo=UBatznqjuW2T]
-link to Google Drive containing the dataset (video named: tardigrades_1.mp4 ) [https://drive.google.com/drive/u/1/folders/1JjtpspW3XqEjdn6KRN3JmxATKFjnb_82]
+Link to GitHub containing the code of Custom Training [https://colab.research.google.com/drive/1ALFHgPpo0KSP-MPYw8TBtxBi726bggN0?authuser=1#scrollTo=02RuxXLdRp1W]
+link to Google Drive containing the dataset (video named: tardigrades_1.mp4)[https://drive.google.com/drive/u/1/folders/1JjtpspW3XqEjdn6KRN3JmxATKFjnb_82]
